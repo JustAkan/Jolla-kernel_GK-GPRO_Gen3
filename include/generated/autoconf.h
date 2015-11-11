@@ -1,7 +1,7 @@
 /*
  *
  * Automatically generated file; DO NOT EDIT.
- * Linux/arm 3.4.110-jolla-kernel_Gen3-v5.0 Kernel Configuration
+ * Linux/arm 3.4.110-jolla-kernel_Gen3-v5.1 Kernel Configuration
  *
  */
 #define CONFIG_RING_BUFFER 1
@@ -65,6 +65,7 @@
 #define CONFIG_HID_PRODIKEYS 1
 #define CONFIG_VIDEOBUF2_MSM_MEM 1
 #define CONFIG_USB_HSIC_SMSC_HUB 1
+#define CONFIG_GENERIC_SMP_IDLE_THREAD 1
 #define CONFIG_MSM_KRAIT_TBB_ABORT_HANDLER 1
 #define CONFIG_DYNAMIC_DEBUG 1
 #define CONFIG_MSM_SMP 1
@@ -1126,7 +1127,6 @@
 #define CONFIG_CRYPTO_BLKCIPHER2 1
 #define CONFIG_SECURITY_SELINUX_AVC_STATS 1
 #define CONFIG_COMPACTION 1
-#define CONFIG_MSM_SLEEPER 1
 #define CONFIG_PROC_FS 1
 #define CONFIG_VIDEOBUF2_VMALLOC 1
 #define CONFIG_RC_MAP 1
