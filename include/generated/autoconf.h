@@ -1,7 +1,7 @@
 /*
  *
  * Automatically generated file; DO NOT EDIT.
- * Linux/arm 3.4.110-jolla-kernel_Gen3-v5.1 Kernel Configuration
+ * Linux/arm 3.4.110-jolla-kernel_Gen3-v5.2 Kernel Configuration
  *
  */
 #define CONFIG_RING_BUFFER 1
@@ -1254,7 +1254,6 @@
 #define CONFIG_GENERIC_CLOCKEVENTS_BROADCAST 1
 #define CONFIG_CRYPTO_AES_ARM 1
 #define CONFIG_MOUSE_PS2_SYNAPTICS 1
-#define CONFIG_TOUCHSCREEN_SCROFF_TRACKCTR 1
 #define CONFIG_REGMAP 1
 #define CONFIG_NLS_UTF8 1
 #define CONFIG_JOYSTICK_XPAD 1

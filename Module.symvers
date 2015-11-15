@@ -1,6 +1,6 @@
 0xbe917b8a	qce_aead_req	drivers/crypto/msm/qce40	EXPORT_SYMBOL
 0x40da4596	qce_hw_support	drivers/crypto/msm/qce40	EXPORT_SYMBOL
-0x4a8f15e0	qce_open	drivers/crypto/msm/qce40	EXPORT_SYMBOL
+0x56aa754c	qce_open	drivers/crypto/msm/qce40	EXPORT_SYMBOL
 0x575c81e1	qce_close	drivers/crypto/msm/qce40	EXPORT_SYMBOL
 0xb03f0e17	qce_ablk_cipher_req	drivers/crypto/msm/qce40	EXPORT_SYMBOL
 0x4f5776e5	qce_process_sha_req	drivers/crypto/msm/qce40	EXPORT_SYMBOL
